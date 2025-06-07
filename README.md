@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Patrick Ellis 👋
+
+## A Seattle-based tech Founder and AI Engineer building GenAI native startups, tools for thinking, and sharing my discoveries along the way.
+
+As CTO & Co-Founder of [Snapbar](https://snapbar.com/), I'm leading the transformation of event marketing and photography through our platform of AI-native apps, trusted by Disney, Nike, Coca-Cola, Google, Meta, Microsoft, Amazon, FIFA, and hundreds of other brands. Named to [Forbes 30 Under 30 Seattle](https://www.forbes.com/sites/forbesunder30team/2023/08/09/30-under-30-local-2023-seattle/) in 2023, I've built multiple successful startups, including [DubHacks](https://dubhacks.co/) (the PNW's largest collegiate hackathon), have pioneered AI-driven products that have generated over 8 figures in revenue at Snapbar, and have helped scale multiple VC-backed early stage startups in San Francisco and Seattle (as an Engineer) that have gone on to acquisition.
 
 <!--
 **OneRedOak/OneRedOak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
